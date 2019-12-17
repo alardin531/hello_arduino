@@ -26,7 +26,7 @@ void loop() {
             o();
         }
         else  {
-            Serial.println("input error!");
+            Serial.println("input error! please try again");
         }
     }
     
